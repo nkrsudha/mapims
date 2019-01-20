@@ -649,7 +649,8 @@ section {}
     
 }
 @media screen and (max-width:480px) {
-    
+    .layout-footer nav li { padding-left: 2px; padding-right: 2px;}
+    .layout-footer nav li a {font-size: 11px;}
 }
 @media screen and (max-width:414px) {
     
