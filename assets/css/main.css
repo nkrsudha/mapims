@@ -956,8 +956,10 @@ section {}
 @media screen and (max-width:414px) {
     
 }
-@media screen and (max-width:370px) {
-    
+@media screen and (max-width:350px) {
+    .abt-banner {
+        background-position:top;
+    }
 }
 @media screen and (max-width:350px) {
     .tp-dep .item h5 {
