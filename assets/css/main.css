@@ -958,7 +958,7 @@ section {}
 }
 @media screen and (max-width:350px) {
     .abt-banner {
-        background-position:top;
+        background-position:top;background-attachment: initial;
     }
 }
 @media screen and (max-width:350px) {
