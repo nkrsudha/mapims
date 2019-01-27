@@ -960,6 +960,7 @@ section {}
     .abt-banner {
         background-position:top;background-attachment: initial;
     }
+    .abt-banner h3 { padding: 60px 0;}
 }
 @media screen and (max-width:350px) {
     .tp-dep .item h5 {
