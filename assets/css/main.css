@@ -842,6 +842,9 @@ section {}
     .tp-dep {
     padding-bottom: 20px; 
 }
+    .abt-banner div { 
+    line-height: 32px; 
+}
 }
 @media screen and (max-width:800px) {
     .inner-nav li a { 
