@@ -954,13 +954,13 @@ section {}
     .layout-footer nav li a {font-size: 11px;}
 }
 @media screen and (max-width:414px) {
-    
-}
-@media screen and (max-width:370px) {
-    .abt-banner {
+     .abt-banner {
         background-position:top;background-attachment: initial;
     }
     .abt-banner h3 { padding: 60px 0;}
+}
+@media screen and (max-width:370px) {
+   
 }
 @media screen and (max-width:350px) {
     .tp-dep .item h5 {
